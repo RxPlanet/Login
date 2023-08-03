@@ -25,7 +25,7 @@
                 </div>
                 <button type="submit">Login</button>
                 <div class="register-link">
-                    <p>Don't have an accounta <a href="Registration.html">Register</a></p>
+                    <p>Don't have an accounta <a href="https://rxplanet.github.io/Registration/">Register</a></p>
                     
                 </div>
                 
